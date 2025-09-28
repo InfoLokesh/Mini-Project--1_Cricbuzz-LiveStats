@@ -1,0 +1,819 @@
+{
+    "typeMatches": [
+        {
+            "matchType": "International",
+            "seriesMatches": [
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 10091,
+                        "seriesName": "West Indies vs Nepal in UAE, 2025",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 121345,
+                                    "seriesId": 10091,
+                                    "seriesName": "West Indies vs Nepal in UAE, 2025",
+                                    "matchDesc": "1st T20I",
+                                    "matchFormat": "T20",
+                                    "startDate": "1758983400000",
+                                    "endDate": "1758996000000",
+                                    "state": "Innings Break",
+                                    "status": "Innings Break",
+                                    "team1": {
+                                        "teamId": 72,
+                                        "teamName": "Nepal",
+                                        "teamSName": "NEP",
+                                        "imageId": 172169
+                                    },
+                                    "team2": {
+                                        "teamId": 10,
+                                        "teamName": "West Indies",
+                                        "teamSName": "WI",
+                                        "imageId": 172124
+                                    },
+                                    "venueInfo": {
+                                        "id": 140,
+                                        "ground": "Sharjah Cricket Stadium",
+                                        "city": "Sharjah",
+                                        "timezone": "+04:00",
+                                        "latitude": "25.33095",
+                                        "longitude": "55.420902"
+                                    },
+                                    "currBatTeamId": 72,
+                                    "seriesStartDt": "1758931200000",
+                                    "seriesEndDt": "1759363200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Ings Break"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 148,
+                                            "wickets": 8,
+                                            "overs": 19.6
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "matchType": "Domestic",
+            "seriesMatches": [
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 9360,
+                        "seriesName": "County Championship Division One 2025",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 113289,
+                                    "seriesId": 9360,
+                                    "seriesName": "County Championship Division One 2025",
+                                    "matchDesc": "70th Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758706200000",
+                                    "endDate": "1758990600000",
+                                    "state": "Complete",
+                                    "status": "Yorkshire won by an innings and 44 runs",
+                                    "team1": {
+                                        "teamId": 141,
+                                        "teamName": "Durham",
+                                        "teamSName": "DUR",
+                                        "imageId": 172208
+                                    },
+                                    "team2": {
+                                        "teamId": 146,
+                                        "teamName": "Yorkshire",
+                                        "teamSName": "YORKS",
+                                        "imageId": 172213
+                                    },
+                                    "venueInfo": {
+                                        "id": 66,
+                                        "ground": "Headingley",
+                                        "city": "Leeds",
+                                        "timezone": "+01:00",
+                                        "latitude": "53.817622",
+                                        "longitude": "-1.58211"
+                                    },
+                                    "currBatTeamId": 146,
+                                    "seriesStartDt": "1743724800000",
+                                    "seriesEndDt": "1759104000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 346,
+                                            "wickets": 10,
+                                            "overs": 103.2
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 85,
+                                            "wickets": 10,
+                                            "overs": 44.5
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 475,
+                                            "wickets": 10,
+                                            "overs": 141.4
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 113262,
+                                    "seriesId": 9360,
+                                    "seriesName": "County Championship Division One 2025",
+                                    "matchDesc": "66th Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758706200000",
+                                    "endDate": "1758990600000",
+                                    "state": "Complete",
+                                    "status": "Essex won by 7 wkts",
+                                    "team1": {
+                                        "teamId": 119,
+                                        "teamName": "Somerset",
+                                        "teamSName": "SOM",
+                                        "imageId": 172199
+                                    },
+                                    "team2": {
+                                        "teamId": 152,
+                                        "teamName": "Essex",
+                                        "teamSName": "ESS",
+                                        "imageId": 172219
+                                    },
+                                    "venueInfo": {
+                                        "id": 118,
+                                        "ground": "County Ground",
+                                        "city": "Chelmsford",
+                                        "timezone": "+01:00",
+                                        "latitude": "51.731580",
+                                        "longitude": "0.469004"
+                                    },
+                                    "currBatTeamId": 152,
+                                    "seriesStartDt": "1743724800000",
+                                    "seriesEndDt": "1759104000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 433,
+                                            "wickets": 10,
+                                            "overs": 122.2
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 99,
+                                            "wickets": 10,
+                                            "overs": 33.3
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 438,
+                                            "wickets": 10,
+                                            "overs": 105.6
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 4,
+                                            "runs": 99,
+                                            "wickets": 3,
+                                            "overs": 18.1
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 9369,
+                        "seriesName": "County Championship Division Two 2025",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 113658,
+                                    "seriesId": 9369,
+                                    "seriesName": "County Championship Division Two 2025",
+                                    "matchDesc": "53rd Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758706200000",
+                                    "endDate": "1758990600000",
+                                    "state": "Complete",
+                                    "status": "Leicestershire won by 167 runs",
+                                    "team1": {
+                                        "teamId": 145,
+                                        "teamName": "Leicestershire",
+                                        "teamSName": "LEIC",
+                                        "imageId": 172212
+                                    },
+                                    "team2": {
+                                        "teamId": 142,
+                                        "teamName": "Northamptonshire",
+                                        "teamSName": "NHNTS",
+                                        "imageId": 172209
+                                    },
+                                    "venueInfo": {
+                                        "id": 119,
+                                        "ground": "County Ground",
+                                        "city": "Northampton",
+                                        "timezone": "+01:00",
+                                        "latitude": "52.248160",
+                                        "longitude": "-0.871060"
+                                    },
+                                    "currBatTeamId": 145,
+                                    "seriesStartDt": "1743724800000",
+                                    "seriesEndDt": "1759104000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 429,
+                                            "wickets": 10,
+                                            "overs": 107.5
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 260,
+                                            "wickets": 5,
+                                            "overs": 62.6,
+                                            "isDeclared": true
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 189,
+                                            "wickets": 10,
+                                            "overs": 57.2
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 4,
+                                            "runs": 333,
+                                            "wickets": 10,
+                                            "overs": 105.5
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 113661,
+                                    "seriesId": 9369,
+                                    "seriesName": "County Championship Division Two 2025",
+                                    "matchDesc": "54th Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758706200000",
+                                    "endDate": "1758990600000",
+                                    "state": "Complete",
+                                    "status": "Derbyshire won by an innings and 229 runs",
+                                    "team1": {
+                                        "teamId": 144,
+                                        "teamName": "Derbyshire",
+                                        "teamSName": "DERBY",
+                                        "imageId": 172211
+                                    },
+                                    "team2": {
+                                        "teamId": 150,
+                                        "teamName": "Kent",
+                                        "teamSName": "KENT",
+                                        "imageId": 172217
+                                    },
+                                    "venueInfo": {
+                                        "id": 67,
+                                        "ground": "St Lawrence Ground",
+                                        "city": "Canterbury",
+                                        "timezone": "+01:00",
+                                        "latitude": "51.267447",
+                                        "longitude": "1.091621"
+                                    },
+                                    "currBatTeamId": 144,
+                                    "seriesStartDt": "1743724800000",
+                                    "seriesEndDt": "1759104000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "DERBY Won"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 698,
+                                            "wickets": 6,
+                                            "overs": 144.6,
+                                            "isDeclared": true
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 271,
+                                            "wickets": 10,
+                                            "overs": 85.4
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 198,
+                                            "wickets": 10,
+                                            "overs": 61.5,
+                                            "isFollowOn": true
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 113670,
+                                    "seriesId": 9369,
+                                    "seriesName": "County Championship Division Two 2025",
+                                    "matchDesc": "55th Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758706200000",
+                                    "endDate": "1758990600000",
+                                    "state": "Complete",
+                                    "status": "Middlesex won by an innings and 67 runs",
+                                    "team1": {
+                                        "teamId": 74,
+                                        "teamName": "Middlesex",
+                                        "teamSName": "MDX",
+                                        "imageId": 172170
+                                    },
+                                    "team2": {
+                                        "teamId": 151,
+                                        "teamName": "Gloucestershire",
+                                        "teamSName": "GLOUCS",
+                                        "imageId": 172218
+                                    },
+                                    "venueInfo": {
+                                        "id": 19,
+                                        "ground": "Lord's",
+                                        "city": "London",
+                                        "timezone": "+01:00",
+                                        "latitude": "51.529488",
+                                        "longitude": "-0.172926"
+                                    },
+                                    "currBatTeamId": 74,
+                                    "seriesStartDt": "1743724800000",
+                                    "seriesEndDt": "1759104000000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Complete"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 634,
+                                            "wickets": 9,
+                                            "overs": 147.4,
+                                            "isDeclared": true
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 286,
+                                            "wickets": 10,
+                                            "overs": 88.1
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 281,
+                                            "wickets": 10,
+                                            "overs": 89.6,
+                                            "isFollowOn": true
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 10878,
+                        "seriesName": "CSA Four-Day Series Division One 2025-26",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 133869,
+                                    "seriesId": 10878,
+                                    "seriesName": "CSA Four-Day Series Division One 2025-26",
+                                    "matchDesc": "3rd Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758787200000",
+                                    "endDate": "1759071600000",
+                                    "state": "Stumps",
+                                    "status": "Day 3: Stumps - North West trail by 29 runs",
+                                    "team1": {
+                                        "teamId": 1766,
+                                        "teamName": "KwaZulu-Natal Inland",
+                                        "teamSName": "KZNIN",
+                                        "imageId": 349611
+                                    },
+                                    "team2": {
+                                        "teamId": 922,
+                                        "teamName": "North West",
+                                        "teamSName": "NWEST",
+                                        "imageId": 248439
+                                    },
+                                    "venueInfo": {
+                                        "id": 102,
+                                        "ground": "Senwes Park",
+                                        "city": "Potchefstroom",
+                                        "timezone": "+02:00",
+                                        "latitude": "-26.695565",
+                                        "longitude": "27.100691"
+                                    },
+                                    "currBatTeamId": 922,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Stumps"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 399,
+                                            "wickets": 10,
+                                            "overs": 104.5
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 370,
+                                            "wickets": 5,
+                                            "overs": 91.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 133858,
+                                    "seriesId": 10878,
+                                    "seriesName": "CSA Four-Day Series Division One 2025-26",
+                                    "matchDesc": "1st Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758787200000",
+                                    "endDate": "1759071600000",
+                                    "state": "Stumps",
+                                    "status": "Day 3: Stumps - Titans trail by 211 runs",
+                                    "team1": {
+                                        "teamId": 1759,
+                                        "teamName": "Boland",
+                                        "teamSName": "BOL",
+                                        "imageId": 349610
+                                    },
+                                    "team2": {
+                                        "teamId": 89,
+                                        "teamName": "Titans",
+                                        "teamSName": "TIT",
+                                        "imageId": 172182
+                                    },
+                                    "venueInfo": {
+                                        "id": 207,
+                                        "ground": "Boland Park",
+                                        "city": "Paarl",
+                                        "timezone": "+02:00",
+                                        "latitude": "-33.730900",
+                                        "longitude": "18.970760"
+                                    },
+                                    "currBatTeamId": 89,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Stumps"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 616,
+                                            "wickets": 9,
+                                            "overs": 163.2,
+                                            "isDeclared": true
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 366,
+                                            "wickets": 10,
+                                            "overs": 101.3
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 39,
+                                            "wickets": 1,
+                                            "overs": 16.6,
+                                            "isFollowOn": true
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 133864,
+                                    "seriesId": 10878,
+                                    "seriesName": "CSA Four-Day Series Division One 2025-26",
+                                    "matchDesc": "2nd Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758787200000",
+                                    "endDate": "1759071600000",
+                                    "state": "Stumps",
+                                    "status": "Day 3: Stumps - Western Province need 220 runs",
+                                    "team1": {
+                                        "teamId": 155,
+                                        "teamName": "Warriors",
+                                        "teamSName": "WAR",
+                                        "imageId": 172222
+                                    },
+                                    "team2": {
+                                        "teamId": 917,
+                                        "teamName": "Western Province",
+                                        "teamSName": "WPR",
+                                        "imageId": 248460
+                                    },
+                                    "venueInfo": {
+                                        "id": 73,
+                                        "ground": "St George's Park",
+                                        "city": "Gqeberha",
+                                        "timezone": "+02:00",
+                                        "latitude": "-33.966545",
+                                        "longitude": "25.610332"
+                                    },
+                                    "currBatTeamId": 917,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1771891200000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "Stumps"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 281,
+                                            "wickets": 10,
+                                            "overs": 86.6
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 3,
+                                            "runs": 253,
+                                            "wickets": 8,
+                                            "overs": 64.1,
+                                            "isDeclared": true
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 182,
+                                            "wickets": 10,
+                                            "overs": 56.2
+                                        },
+                                        "inngs2": {
+                                            "inningsId": 4,
+                                            "runs": 133,
+                                            "wickets": 4,
+                                            "overs": 39.6
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 10911,
+                        "seriesName": "CSA Four-Day Series Division Two 2025-26",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 134469,
+                                    "seriesId": 10911,
+                                    "seriesName": "CSA Four-Day Series Division Two 2025-26",
+                                    "matchDesc": "1st Match",
+                                    "matchFormat": "TEST",
+                                    "startDate": "1758787200000",
+                                    "endDate": "1759071600000",
+                                    "state": "In Progress",
+                                    "status": "Day 3: 3rd Session - Eastern Storm lead by 188 runs",
+                                    "team1": {
+                                        "teamId": 912,
+                                        "teamName": "Limpopo",
+                                        "teamSName": "LIMPO",
+                                        "imageId": 248430
+                                    },
+                                    "team2": {
+                                        "teamId": 933,
+                                        "teamName": "Eastern Storm",
+                                        "teamSName": "ESTORM",
+                                        "imageId": 248407
+                                    },
+                                    "venueInfo": {
+                                        "id": 135,
+                                        "ground": "Willowmoore Park",
+                                        "city": "Benoni",
+                                        "timezone": "+02:00",
+                                        "latitude": "55.430751",
+                                        "longitude": "-4.634697"
+                                    },
+                                    "currBatTeamId": 933,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1770854400000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "In Progress"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 341,
+                                            "wickets": 10,
+                                            "overs": 95.2
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 529,
+                                            "wickets": 6,
+                                            "overs": 140.6
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ad": {
+                        "name": "native_matches",
+                        "layout": "native_large",
+                        "position": 5
+                    }
+                }
+            ]
+        },
+        {
+            "matchType": "Women",
+            "seriesMatches": [
+                {
+                    "seriesAdWrapper": {
+                        "seriesId": 10454,
+                        "seriesName": "ICC Womens World Cup Warm-up Matches 2025",
+                        "matches": [
+                            {
+                                "matchInfo": {
+                                    "matchId": 135118,
+                                    "seriesId": 10454,
+                                    "seriesName": "ICC Womens World Cup Warm-up Matches 2025",
+                                    "matchDesc": "6th Match",
+                                    "matchFormat": "ODI",
+                                    "startDate": "1758965400000",
+                                    "endDate": "1758994200000",
+                                    "state": "In Progress",
+                                    "status": "India Women need 113 runs - 42 overs game due to rain, target 237",
+                                    "team1": {
+                                        "teamId": 98,
+                                        "teamName": "New Zealand Women",
+                                        "teamSName": "NZW",
+                                        "imageId": 172190
+                                    },
+                                    "team2": {
+                                        "teamId": 97,
+                                        "teamName": "India Women",
+                                        "teamSName": "INDW",
+                                        "imageId": 172189
+                                    },
+                                    "venueInfo": {
+                                        "id": 1438087,
+                                        "ground": "BCCI Centre of Excellence Ground",
+                                        "city": "Bengaluru",
+                                        "timezone": "+05:30",
+                                        "latitude": "12.978853",
+                                        "longitude": "77.599533"
+                                    },
+                                    "currBatTeamId": 97,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1759190400000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "In Progress"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 232,
+                                            "wickets": 8,
+                                            "overs": 41.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 124,
+                                            "wickets": 2,
+                                            "overs": 20.6
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "matchInfo": {
+                                    "matchId": 135107,
+                                    "seriesId": 10454,
+                                    "seriesName": "ICC Womens World Cup Warm-up Matches 2025",
+                                    "matchDesc": "5th Match",
+                                    "matchFormat": "ODI",
+                                    "startDate": "1758965400000",
+                                    "endDate": "1758994200000",
+                                    "state": "In Progress",
+                                    "status": "Sri Lanka Women need 52 runs in 50 balls",
+                                    "team1": {
+                                        "teamId": 329,
+                                        "teamName": "Bangladesh Women",
+                                        "teamSName": "BANW",
+                                        "imageId": 172377
+                                    },
+                                    "team2": {
+                                        "teamId": 258,
+                                        "teamName": "Sri Lanka Women",
+                                        "teamSName": "SLW",
+                                        "imageId": 172311
+                                    },
+                                    "venueInfo": {
+                                        "id": 256,
+                                        "ground": "Colombo Cricket Club Ground",
+                                        "city": "Colombo",
+                                        "timezone": "+05:30",
+                                        "latitude": "6.907719",
+                                        "longitude": "79.865849"
+                                    },
+                                    "currBatTeamId": 258,
+                                    "seriesStartDt": "1758758400000",
+                                    "seriesEndDt": "1759190400000",
+                                    "isTimeAnnounced": true,
+                                    "stateTitle": "In Progress"
+                                },
+                                "matchScore": {
+                                    "team1Score": {
+                                        "inngs1": {
+                                            "inningsId": 1,
+                                            "runs": 242,
+                                            "wickets": 8,
+                                            "overs": 49.6
+                                        }
+                                    },
+                                    "team2Score": {
+                                        "inngs1": {
+                                            "inningsId": 2,
+                                            "runs": 191,
+                                            "wickets": 5,
+                                            "overs": 41.3
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "filters": {
+        "matchType": [
+            "International",
+            "League",
+            "Domestic",
+            "Women"
+        ]
+    },
+    "appIndex": {
+        "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+        "webURL": "www.cricbuzz.com/live-cricket-scores/"
+    },
+    "responseLastUpdated": "1758989905"
+}
